@@ -11,6 +11,12 @@
 
 
 <hr/>
+### 🛠 Core Skills in a Flash
+Cyber Defense: VAPT, SOC, DevSecOps, Network Security
+AI/ML: Predictive Analytics, Anomaly Detection, NLP
+Web Wizardry: React, Node.js, MongoDB, Python
+Security Stack: Kali Linux, Metasploit, ZAP, Burp Suite, Wireshark
+Dev Practices: CI/CD, GitHub, Docker (Basics), Agile
 
 
 
