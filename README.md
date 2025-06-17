@@ -56,8 +56,6 @@ AWS | IBM | CISCO | Infosys | NPTEL Certified
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
