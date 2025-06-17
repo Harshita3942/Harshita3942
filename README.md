@@ -3,11 +3,11 @@
 </div>
 
 ## About Me :
-### 🧚 Hola! Harshita here, a pre-final year B.Tech student majoring in Computer Science at SRM University, Chennai
-### 🚀 Currently understanding that privacy in the digital world is a myth 
-### 👀 Paving  my path in the field of CYBERSECURITY as a Security Tester
-### 🕵️‍♂️ Currently Learning about Backend, LLMs & RAG
-### 👀 Dedicated full time RESEARCHER @SAMSUNG_PRISM
+## 🧚 Hola! Harshita here, a pre-final year B.Tech student majoring in Computer Science at SRM University, Chennai
+## 🚀 Currently understanding that privacy in the digital world is a myth 
+## 👀 Paving  my path in the field of CYBERSECURITY as a Security Tester
+## 🕵️‍♂️ Currently Learning about Backend, LLMs & RAG
+## 👀 Dedicated full time RESEARCHER @SAMSUNG_PRISM
 
 ## 🛠 Core Skills
 - **Cyber Defense**: VAPT, SOC, DevSecOps
