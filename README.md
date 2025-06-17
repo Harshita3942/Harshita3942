@@ -9,14 +9,29 @@
 ### 🕵️‍♂️ Currently Learning about Backend, LLMs & RAG
 ### 👀 Dedicated full time RESEARCHER @SAMSUNG_PRISM
 
+## 🛠 Core Skills
+- **Cyber Defense**: VAPT, SOC, DevSecOps
+- **AI/ML**: Anomaly Detection, Predictive Analytics
+- **Web Development**: React, Node.js, MongoDB
+- **Security Stack**: Kali Linux, Metasploit, ZAP, Wireshark
+- **Dev Practices**: CI/CD, GitHub, Docker
 
-<hr/>
-### 🛠 Core Skills in a Flash
-Cyber Defense: VAPT, SOC, DevSecOps, Network Security
-AI/ML: Predictive Analytics, Anomaly Detection, NLP
-Web Wizardry: React, Node.js, MongoDB, Python
-Security Stack: Kali Linux, Metasploit, ZAP, Burp Suite, Wireshark
-Dev Practices: CI/CD, GitHub, Docker (Basics), Agile
+---
+
+## 🔥 Featured Projects
+- 🔐 **HackFusion** – CLI Cybersecurity Toolkit + AI Chat *(Patent Pending)*
+- 🏏 **BatVision** – ML-powered cricket score prediction
+- 🛡️ **AuditX** – Smart Contract Auditing System
+- 👁️ **KairosEye** – Real-time API anomaly detection
+- 🧠 **MagicAI** – AI SaaS for content generation
+
+---
+
+## 📘 Research Work
+- 📱 **GaitSens (Samsung)** – AI for mobility & fall detection
+- 🕵️ **Cisco Breach (IEEE)** – In-depth corporate cybersecurity analysis
+
+---
 
 
 
